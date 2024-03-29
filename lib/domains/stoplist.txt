@@ -1584,7 +1584,6 @@ cs.ifmo.ru
 stud.ur.ac.rw
 rb.moe.gov.sa
 rg.moe.gov.sa
-sm.imamu.edu.sa
 mu.edu.sa
 st.uqu.edu.sa
 uj.edu.sa
