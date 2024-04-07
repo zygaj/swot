@@ -1876,3 +1876,5 @@ g.hongik.ac.kr
 student.buitms.edu.pk
 ebimal.edu.ar
 avicenna.uobasrah.edu.iq
+fafu.edu.cn
+jmail.ac.kr
