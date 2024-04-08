@@ -1029,7 +1029,6 @@ art.dmu.edu.eg
 sh-eng.menofia.edu.eg
 ci.suez.edu.eg
 kafrelsheikh2.moe.edu.eg
-alexu.edu.eg
 cis.edu.eg
 psu.edu.eg
 medicine.zu.edu.eg
