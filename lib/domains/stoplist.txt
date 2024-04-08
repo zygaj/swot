@@ -1069,7 +1069,6 @@ mail.ucv.es
 alumnos.uvigo.es
 mail.uca.es
 campus.eug.es
-uniovi.es
 live.uem.es
 educastur.es
 educa.jcyl.es
