@@ -625,7 +625,6 @@ estudiantes.cordillera.edu.ec
 ug.edu.ec
 indoamerica.edu.ec
 ucacue.edu.ec
-unemi.edu.ec
 pucese.edu.ec
 espoch.edu.ec
 uce.edu.ec
@@ -814,7 +813,6 @@ holmescc.edu
 navarrocollege.edu
 cwru.edu
 lau.edu
-pcc.edu
 rangers.nwosu.edu
 batestech.edu
 student.lccc.wy.edu
@@ -1546,7 +1544,6 @@ alunos.isel.pt
 mso365.ulp.pt
 cic.pt
 esec.pt
-edu.atec.pt
 aealcochete.edu.pt
 aluno.agvaf.edu.pt
 etap.edu.pt
@@ -1878,3 +1875,4 @@ ebimal.edu.ar
 avicenna.uobasrah.edu.iq
 fafu.edu.cn
 jmail.ac.kr
+aik.edu.kg
