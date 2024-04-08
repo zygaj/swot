@@ -1130,7 +1130,6 @@ queens.ac.id
 students.smanra.sch.id
 mercubuana.ac.id
 students.uajy.ac.id
-student.ub.ac.id
 mahasiswa.itb.ac.id
 mahasiswa.itb.ac.id
 mail.umy.ac.id
