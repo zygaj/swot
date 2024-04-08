@@ -554,7 +554,6 @@ mail.escuelaing.edu.co
 institutomerani.edu.co
 correo.usbcali.edu.co
 campusvirtual.aunarvillavicencio.edu.co
-udea.edu.co
 upb.edu.co
 tecnocomfenalco.edu.co
 cuc.edu.co
