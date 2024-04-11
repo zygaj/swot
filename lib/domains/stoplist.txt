@@ -1868,3 +1868,4 @@ jmail.ac.kr
 aik.edu.kg
 up.ac.th
 mochis.tecnm.mx
+suez.edu.eg
