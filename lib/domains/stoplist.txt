@@ -1869,3 +1869,4 @@ aik.edu.kg
 up.ac.th
 mochis.tecnm.mx
 suez.edu.eg
+gndec.ac.in
