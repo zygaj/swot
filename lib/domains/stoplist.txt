@@ -1870,3 +1870,4 @@ mochis.tecnm.mx
 suez.edu.eg
 gndec.ac.in
 schools.vic.edu.au
+ms.kbu.ac.th
