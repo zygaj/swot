@@ -1009,7 +1009,8 @@ thebes.edu.eg
 std.aou.edu.eg
 nub.edu.eg
 tanta.edu.eg
-bsu.edu.eg
+pharm.bsu.edu.eg
+commerce.bsu.edu.eg
 modern-academy.edu.eg
 buc.edu.eg
 azhar.edu.eg
