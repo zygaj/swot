@@ -78,7 +78,6 @@ aluno.ies.edu.br
 ulbra.edu.br
 edu.univali.br
 alunosatc.edu.br
-pucpr.edu.br
 academico.ifmg.edu.br
 unifacs.edu.br
 sempreung.com.br
@@ -1047,7 +1046,7 @@ fmed.bu.edu.eg
 agri.aru.edu.eg
 au.edu.eg
 akhbaracademy.edu.eg
-dmu.edu.eg
+vetmed.dmu.edu.eg
 alex3.moe.edu.eg
 aiet.edu.eg
 metmans.edu.eg
@@ -1382,7 +1381,6 @@ mymail.lausd.net
 unijos.edu.ng
 uniabuja.edu.ng
 students.unilorin.edu.ng
-futa.edu.ng
 live.unilag.edu.ng
 noun.edu.ng
 student.mau.edu.ng
