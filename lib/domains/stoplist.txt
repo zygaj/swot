@@ -1869,3 +1869,7 @@ schools.vic.edu.au
 ms.kbu.ac.th
 hbucm.edu.cn
 gcsurat.gujgov.edu.in
+miucateci.edu.do
+inseec-france.com
+univ.seitoku.ac.jp
+nerist.ac.in
