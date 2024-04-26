@@ -1566,7 +1566,6 @@ student.iatc.edu.sa
 uhb.edu.sa
 hedaya.edu.sa
 qu.edu.sa
-kau.edu.sa
 upm.edu.sa
 kst.edu.sg
 student.tp.edu.sg
