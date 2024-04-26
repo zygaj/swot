@@ -1032,7 +1032,6 @@ student.eelu.edu.eg
 foe.zu.edu.eg
 fcom.bu.edu.eg
 eng.sohag.edu.eg
-s-mu.edu.eg
 miniauniv.edu.eg
 domazhermedicine.edu.eg
 el-eng.menofia.edu.eg
