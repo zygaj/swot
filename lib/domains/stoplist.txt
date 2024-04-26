@@ -1356,7 +1356,6 @@ istudent.unisel.edu.my
 365.um.edu.my
 students.nilai.edu.my
 usim.edu.my
-imail.sunway.edu.my
 isctem.ac.mz
 ucm.ac.mz
 ucm.ac.mz
