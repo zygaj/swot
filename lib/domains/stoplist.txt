@@ -210,7 +210,6 @@ huanghuai.edu.cn
 hubu.edu.cn
 hufe.edu.cn
 huse.edu.cn
-hust.edu.cn
 hznu.edu.cn
 imnu.edu.cn
 ipdbuu.com.cn
@@ -277,7 +276,6 @@ shu.edu.cn
 sicau.edu.cn
 sit.edu.cn
 sjtu.edu.cn
-smail.nju.edu.cn
 snnu.edu.cn
 st.btbu.edu.cn
 std.uestc.edu.cn
@@ -332,12 +330,10 @@ ustb.edu.cn
 ustc.edu.cn
 vip.henu.edu.cn
 vip.hnist.edu.cn
-whu.edu.cn
 wust.edu.cn
 wxic.edu.cn
 wzu.edu.cn
 xbdx.ac.cn
-xidian.edu.cn
 xinfu.ac.cn
 xiyou.edu.cn
 xjdx.ac.cn
@@ -352,7 +348,6 @@ zcmu.edu.cn
 zjgsu.edu.cn
 zjnu.edu.cn
 zjsru.edu.cn
-zju.edu.cn
 zknu.edu.cn
 zucc.edu.cn
 zuel.edu.cn
@@ -477,7 +472,6 @@ pdsu.edu.cn
 vjrq.cn
 muc.edu.cn
 huas.edu.cn
-mail.sdu.edu.cn
 stu.sumhs.edu.cn
 tongji.edu.cn
 email.szu.edu.cn
