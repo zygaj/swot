@@ -159,7 +159,6 @@ alumnos.utalca.cl
 usanandres.cl
 ahlg.ac.cn
 ahzyygz.edu.cn
-fudan.edu.cn
 aufe.edu.cn
 bbc.edu.cn
 bese.ac.cn
@@ -168,7 +167,6 @@ bit.edu.cn
 bitzh.edu.cn
 bjdx.ac.cn
 bjlg.ac.cn
-bjtu.edu.cn
 bnu.edu.cn
 bucea.edu.cn
 caa.edu.cn
@@ -237,7 +235,6 @@ mail.nwpu.edu.cn
 mails.cust.edu.cn
 mails.hufe.edu.cn
 mails.imnu.edu.cn
-mail.sjtu.edu.cn
 mails.mmnnsf.cn
 mails.qust.edu.cn
 mail.sustc.edu.cn
@@ -275,7 +272,6 @@ shmtu.edu.cn
 shu.edu.cn
 sicau.edu.cn
 sit.edu.cn
-sjtu.edu.cn
 snnu.edu.cn
 st.btbu.edu.cn
 std.uestc.edu.cn
@@ -283,7 +279,6 @@ st.sandau.edu.cn
 stu.ahu.edu.cn
 stu.ccsu.edu.cn
 stu.cpu.edu.cn
-stu.cqupt.edu.cn
 stu.cuz.edu.cn
 stud.acdt.edu.cn
 student.cumtb.edu.cn
@@ -364,7 +359,6 @@ masu.edu.cn
 cczu.edu.cn
 sdust.edu.cn
 nxmu.edu.cn
-sdu.edu.cn
 stu.cdut.edu.cn
 hsc.pku.edu.cn
 e.gzhu.edu.cn
@@ -1864,3 +1858,8 @@ bostonk12.org
 tsu.ac.th
 academicos.uamericas.cl
 utp.edu.br
+smail.nju.edu.cn
+zju.edu.cn
+stu.xidian.edu.cn
+whu.edu.cn
+hust.edu.cn
