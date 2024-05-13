@@ -977,14 +977,6 @@ mccc.edu
 unimaksl.education
 my.cast.education
 tranquillity.ee
-sharkia3.moe.edu.eg
-sch.moe.edu.eg
-tse.moe.edu.eg
-fue.edu.eg
-thebes.edu.eg
-std.aou.edu.eg
-nub.edu.eg
-tanta.edu.eg
 pharm.bsu.edu.eg
 commerce.bsu.edu.eg
 buc.edu.eg
@@ -1228,7 +1220,6 @@ ucsdawei.edu.mm
 tutaunggyi.edu.mm
 kmd.edu.mm
 khugjil.edu.mn
-stu.cdsj6.edu.mo
 stu.cdsj6.edu.mo
 student.cdsj.edu.mo
 edu.cdsj6.edu.mo
