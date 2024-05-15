@@ -1821,3 +1821,4 @@ g.tu.ac.kr
 o365.tu.ac.kr
 est.unibe.edu.do
 kuic.kyonggi.ac.kr
+feng.bu.edu.eg
