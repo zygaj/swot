@@ -429,7 +429,6 @@ email.cugb.edu.cn
 bjmu.edu.cn
 bupt.edu.cn
 bupt.cn
-cqu.edu.cn
 nit.edu.cn
 lhmc.edu.cn
 xauat.edu.cn
