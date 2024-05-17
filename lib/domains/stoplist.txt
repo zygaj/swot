@@ -1085,7 +1085,6 @@ mahasiswa.itb.ac.id
 mahasiswa.itb.ac.id
 mail.umy.ac.id
 smakstmariamalang.sch.id
-stikom-bali.ac.id
 office.itb.ac.id
 fh.unair.ac.id
 uin-suka.ac.id
@@ -1821,3 +1820,4 @@ o365.tu.ac.kr
 est.unibe.edu.do
 kuic.kyonggi.ac.kr
 feng.bu.edu.eg
+univ-barackobama.com
