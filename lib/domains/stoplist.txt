@@ -46,7 +46,6 @@ me.buet.ac.bd
 unwe.bg
 uni-sofia.bg
 bub.edu.bh
-bub.edu.bh
 gulfuniversity.edu.bh
 stu.uob.edu.bh
 sss.edu.bi
@@ -79,7 +78,6 @@ estudante.sc.senai.br
 educar.rs.gov.br
 ucs.br
 uninove.edu.br
-projecao.edu.br
 projecao.edu.br
 unicamp.br
 discente.ufopa.edu.br
@@ -518,7 +516,6 @@ enayu.com
 icamtech.com
 kmismail.com
 leonvero.com
-mailpoof.com
 miucce.com
 wellsfargocomcardholders.com
 ze-zha.com
@@ -538,7 +535,6 @@ puntlandstateuniversity.com
 thcstranvangiau.com
 student.ltuc.com
 gemselearning.com
-manukaumail.com
 svkmmumbai.onmicrosoft.com
 ricstudent.com
 kkumail.com
