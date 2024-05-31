@@ -31,8 +31,6 @@ unimoron.edu.ar
 comunidadort.edu.ar
 esore.asia
 nmms-mautern.at
-borg-kindberg.at
-edu.fh-wien.ac.at
 alumni.anu.edu.au
 live.vu.edu.au
 bsu.edu.az
@@ -44,7 +42,6 @@ osasmailovic.edu.ba
 oshs.edu.ba
 alumni.ssst.edu.ba
 green.ac.bd
-student.duet.ac.bd
 me.buet.ac.bd
 unwe.bg
 uni-sofia.bg
@@ -59,26 +56,9 @@ nur.edu.bo
 utecnologica.edu.bo
 est.emi.edu.bo
 acad.ucb.edu.bo
-al.insper.edu.br
-alumni.usp.br
-faculdadefia.edu.br
-pucgo.edu.br
 aluno.unicarioca.edu.br
-ufpa.br
-aluno.ies.edu.br
-ulbra.edu.br
-edu.univali.br
-alunosatc.edu.br
-academico.ifmg.edu.br
-unifacs.edu.br
-sempreung.com.br
 anhembimorumbi.edu.br
 senacminas.edu.br
-senacsp.edu.br
-uniacademia.edu.br
-aluno.uniasselvi.com.br
-alunos.unisagrado.edu.br
-fatecie.edu.br
 mackenzista.com.br
 academico.ifg.edu.br
 sempreuninorte.com.br
@@ -101,7 +81,6 @@ sempreunama.com.br
 estudante.sc.senai.br
 educar.rs.gov.br
 ucs.br
-aluno.uece.br
 alunos.unisanta.br
 uninove.edu.br
 projecao.edu.br
@@ -1820,3 +1799,4 @@ est.unibe.edu.do
 kuic.kyonggi.ac.kr
 feng.bu.edu.eg
 univ-barackobama.com
+ubi.pt
