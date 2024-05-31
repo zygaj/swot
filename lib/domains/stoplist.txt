@@ -60,10 +60,8 @@ aluno.unicarioca.edu.br
 anhembimorumbi.edu.br
 senacminas.edu.br
 mackenzista.com.br
-academico.ifg.edu.br
 sempreuninorte.com.br
 eniac.edu.br
-sempreuninassau.com.br
 etec.sp.gov.br
 sempreunijuazeiro.com.br
 uvvnet.com.br
@@ -71,7 +69,6 @@ estudante.sed.sc.gov.br
 umc.br
 fmu.edu.br
 univille.br
-ufpr.br
 academico.cesmac.edu.br
 edu.udesc.br
 estudante.ifes.edu.br
@@ -81,12 +78,10 @@ sempreunama.com.br
 estudante.sc.senai.br
 educar.rs.gov.br
 ucs.br
-alunos.unisanta.br
 uninove.edu.br
 projecao.edu.br
 projecao.edu.br
 unicamp.br
-aluno.newtonpaiva.br
 discente.ufopa.edu.br
 pucsp.edu.br
 academico.ifrn.edu.br
