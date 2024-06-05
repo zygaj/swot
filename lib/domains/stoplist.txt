@@ -1798,3 +1798,4 @@ alexu.edu.eg
 std.art.asu.edu.eg
 usmba.ac.ma
 asu.edu.eg
+students.clark.edu
