@@ -1801,7 +1801,7 @@ asu.edu.eg
 students.clark.edu
 edu.ranepa.ru
 st.neu.edu.vn
-apparts.bsu.edu.eg
 stu.ujn.edu.cn
 m.ldu.edu.cn
 g.seoultech.ac.kr
+bsu.edu.eg
