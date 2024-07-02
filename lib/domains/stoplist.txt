@@ -379,3 +379,9 @@ aof.anadolu.edu.tr
 art.edu.lv
 m.uno.edu.gr
 univ-barackobama.com
+hnie.edu.cn
+student.miyazaki-c.ed.jp
+alumni.berklee.edu
+alumni.cuhk.net
+uagraria.edu.ec
+connect.hku.hk
