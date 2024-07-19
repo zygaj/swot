@@ -1300,3 +1300,4 @@ aluno.uece.br
 economicas.uba.ar
 uma.es
 niu.edu.tw
+mu.edu.eg
