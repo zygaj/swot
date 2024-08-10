@@ -422,3 +422,4 @@ meduca.edu.pa
 umy.ac.id
 social.helwan.edu.eg
 alumni.uci.edu
+cau.ac.kr
