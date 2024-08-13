@@ -423,3 +423,4 @@ umy.ac.id
 social.helwan.edu.eg
 alumni.uci.edu
 cau.ac.kr
+univ-dbkm.dz
