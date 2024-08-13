@@ -428,3 +428,4 @@ mail.rmutt.ac.th
 lsts.edu.vn
 ucass.edu.cn
 m.stc.edu.hk
+est.domingocomin.edu.ec
