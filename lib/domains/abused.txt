@@ -1300,3 +1300,4 @@ helwan.edu.eg
 mymail.tstc.edu
 uzem.education
 isbstudent.comsats.edu.pk
+ecampus.ut.ac.id
