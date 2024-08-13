@@ -1301,3 +1301,4 @@ mymail.tstc.edu
 uzem.education
 isbstudent.comsats.edu.pk
 ecampus.ut.ac.id
+unal.edu.co
