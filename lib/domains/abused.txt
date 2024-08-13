@@ -1299,3 +1299,4 @@ alu.uma.es
 helwan.edu.eg
 mymail.tstc.edu
 uzem.education
+isbstudent.comsats.edu.pk
