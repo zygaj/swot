@@ -434,3 +434,4 @@ alu.gxu.edu.cn
 xhu.edu.cn
 stu.xaau.edu.cn
 mails.cqjtu.edu.cn
+sol-du.ac.in
