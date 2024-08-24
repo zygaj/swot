@@ -1305,3 +1305,4 @@ student.mmu.edu.my
 faculdadebarretos.com.br
 correo.ugr.es
 uwarsaw.edu.pl
+hj.ac.kr
