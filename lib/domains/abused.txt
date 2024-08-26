@@ -171,7 +171,6 @@ colc.co
 colegio-venecia.edu.mx
 colegio.univalle.edu
 colegiotorremalmuerta.es
-collegelacite.ca
 collin.edu
 colmayor.edu.co
 colostate.edu
@@ -456,7 +455,6 @@ kthcm.edu.vn
 kuic.kyonggi.ac.kr
 kwiatek365.pl
 kyile.website
-lacitec.on.ca
 lamarpa.edu
 lawsonstate.edu
 lbwcc.edu
@@ -1306,3 +1304,4 @@ faculdadebarretos.com.br
 correo.ugr.es
 uwarsaw.edu.pl
 hj.ac.kr
+cau.ac.kr
