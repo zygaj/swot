@@ -498,7 +498,6 @@ mail.escuelaing.edu.co
 mail.hrka.net
 mail.icmbs.sch.id
 mail.irsc.edu
-mail.lcc.edu
 mail.ltcc.edu
 mail.mss.sc.ug
 mail.mzr.me
