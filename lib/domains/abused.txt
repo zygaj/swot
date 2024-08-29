@@ -905,7 +905,6 @@ stu.uob.edu.bh
 stud.iuav.it
 stud.ur.ac.rw
 stud.ur.edu.pl
-student.alamo.edu
 student.angelina.edu
 student.annauniv.edu
 student.bahria.edu.pk
