@@ -872,7 +872,6 @@ std.kyu.ac.ug
 std.neu.edu.tr
 std.nisantasi.edu.tr
 std.yildiz.edu.tr
-sti.edu.ph
 stlcc.edu
 stmail.tanenbaumchat.org
 stonabemowie.edu.pl
