@@ -75,7 +75,7 @@ anu.edu.gh
 app
 apus.edu
 archten.croydon.sch.uk
-art.dmu.edu.eg
+dmu.edu.eg
 asoiu.edu.az
 asu.edu.eg
 ataa.sch.sa
@@ -1233,7 +1233,6 @@ vanlanguni.vn
 vcccd.edu
 vccs.edu
 vctx.edu
-vetmed.dmu.edu.eg
 vict.edu.ht
 vief.edu.vn
 vikings.grayson.edu
