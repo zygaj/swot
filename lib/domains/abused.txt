@@ -1300,3 +1300,4 @@ aluno.newtonpaiva.br
 geu.ac.in
 aluno.uniasselvi.com.br
 sandiego.edu
+tepeaca.tecnm.mx
