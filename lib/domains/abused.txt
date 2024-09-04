@@ -339,7 +339,6 @@ ghazanthemprep.org
 giant.cos.edu
 gndec.ac.in
 go.minnstate.edu
-go.pasadena.edu
 go.shoreline.edu
 gq
 green.ac.bd
@@ -1120,7 +1119,6 @@ uj.edu.sa
 ul.edu.co
 ul.edu.lb
 ula.edu.mx
-umbc.edu
 umc.br
 umkt.ac.id
 umm.edu.mx
