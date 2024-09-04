@@ -180,7 +180,7 @@ comunidad.unam.mx
 comunidadort.edu.ar
 conalep.edu.mx
 conalepmex.edu.mx
-conncoll.edu
+alumni.conncoll.edu
 continental.edu.pe
 converse.edu
 correo.icesi.edu.co
