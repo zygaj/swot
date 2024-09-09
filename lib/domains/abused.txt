@@ -1085,7 +1085,6 @@ ucr.ac.cr
 ucs.br
 ucsc.edu
 ucsdawei.edu.mm
-ucsiuniversity.edu.my
 ucsm.edu.pe
 ucsy.edu.mm
 ucuenca.edu.ec
