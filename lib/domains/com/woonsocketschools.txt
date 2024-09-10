@@ -1,2 +1,3 @@
 Woonsocket Area Career and Technical Center
 Woonsocket High School
+.group
