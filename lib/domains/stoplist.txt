@@ -447,3 +447,5 @@ umbc.edu
 alumni.stcl.edu
 csa.concordia.ab.ca
 metodista.br
+ga
+gagpk.ru

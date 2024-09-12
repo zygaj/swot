@@ -327,8 +327,6 @@ g.batstate-u.edu.ph
 g.hongik.ac.kr
 g.seoultech.ac.kr
 g.tu.ac.kr
-ga
-gagpk.ru
 gcsurat.gujgov.edu.in
 gemselearning.com
 georgetown.edu
