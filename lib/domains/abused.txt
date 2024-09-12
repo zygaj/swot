@@ -72,7 +72,6 @@ anahuac.mx
 anc.ac.th
 anhembimorumbi.edu.br
 anu.edu.gh
-app
 apus.edu
 archten.croydon.sch.uk
 dmu.edu.eg
@@ -1289,3 +1288,6 @@ tukorea.ac.kr
 ises.com.br
 student.concordia.ab.ca
 chosun.ac.kr
+usonsonate.edu.sv
+educastur.es
+est.intec.edu.do
