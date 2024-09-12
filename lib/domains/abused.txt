@@ -1294,3 +1294,11 @@ est.intec.edu.do
 comunidad.iush.edu.co
 web.gcu.edu.pk
 stu.itc.edu.vn
+fci.bu.edu.eg
+live.iium.edu.my
+baraodemaua.edu.br
+live.gctu.edu.gh
+jnu.ac.kr
+aou.edu.om
+stu.smiu.edu.pk
+st.tvu.edu.vn
