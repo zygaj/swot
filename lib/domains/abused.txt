@@ -1076,7 +1076,6 @@ ucm.ac.mz
 ucp.edu.pk
 ucr.ac.cr
 ucs.br
-ucsc.edu
 ucsdawei.edu.mm
 ucsm.edu.pe
 ucsy.edu.mm
