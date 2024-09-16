@@ -1306,3 +1306,8 @@ alumno.uaemex.mx
 stud.num.edu.mn
 upnet.gr
 mail.udes.edu.co
+esrpeixoto.edu.pt
+vu.edu.bd
+uttcampus.edu.mx
+alunos.unifbv.edu.br
+zu.edu.eg
