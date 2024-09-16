@@ -1305,3 +1305,4 @@ estudiantes.uv.mx
 alumno.uaemex.mx
 stud.num.edu.mn
 upnet.gr
+mail.udes.edu.co
