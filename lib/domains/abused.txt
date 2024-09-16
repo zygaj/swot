@@ -1304,3 +1304,5 @@ mokwon.ac.kr
 alumni.esade.edu
 estudiantes.uv.mx
 alumno.uaemex.mx
+stud.num.edu.mn
+upnet.gr
