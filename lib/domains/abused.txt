@@ -371,7 +371,6 @@ icamtech.com
 icc.edu
 ictu.edu.vn
 icu-edu.org
-idat.edu.pe
 iesdelatuel.edu.ar
 iga-marrakech.ma
 iluv.ums.edu.my
@@ -1310,3 +1309,4 @@ vu.edu.bd
 uttcampus.edu.mx
 alunos.unifbv.edu.br
 zu.edu.eg
+utyac.onmicrosoft.com
