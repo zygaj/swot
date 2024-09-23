@@ -463,3 +463,4 @@ stu.bayburt.edu.tr
 alumni.rice.edu
 cet.edu
 innopolis.university
+shu.edu.tw
