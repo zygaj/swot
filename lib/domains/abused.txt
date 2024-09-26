@@ -1271,7 +1271,6 @@ cau.ac.kr
 aluno.newtonpaiva.br
 geu.ac.in
 aluno.uniasselvi.com.br
-sandiego.edu
 tepeaca.tecnm.mx
 tukorea.ac.kr
 ises.com.br
@@ -1305,3 +1304,4 @@ alunos.unifbv.edu.br
 zu.edu.eg
 utyac.onmicrosoft.com
 wesleyan.edu
+studenti.unisr.it
