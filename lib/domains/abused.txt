@@ -1301,3 +1301,5 @@ wesleyan.edu
 studenti.unisr.it
 rtu.edu.ph
 studentmail.unimap.edu.my
+email.lcup.edu.ph
+jamaluddin.edu.mv
