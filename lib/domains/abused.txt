@@ -317,7 +317,7 @@ fti.edu.al
 ftu.edu.vn
 fvcc.edu
 fwu.edu.np
-g.batstate-u.edu.ph
+batstate-u.edu.ph
 g.hongik.ac.kr
 g.seoultech.ac.kr
 g.tu.ac.kr
