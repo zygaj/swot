@@ -1092,7 +1092,6 @@ uit.edu.mm
 uj.edu.sa
 ul.edu.co
 ul.edu.lb
-ula.edu.mx
 umc.br
 umkt.ac.id
 umm.edu.mx
