@@ -625,7 +625,6 @@ ninja
 njit.edu
 nmjc.edu
 nmms-mautern.at
-nmsu.edu
 noc.edu
 northampton.edu
 northshore.edu
