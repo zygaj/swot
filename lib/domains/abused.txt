@@ -317,7 +317,7 @@ fti.edu.al
 ftu.edu.vn
 fvcc.edu
 fwu.edu.np
-g.batstate-u.edu.ph
+batstate-u.edu.ph
 g.hongik.ac.kr
 g.seoultech.ac.kr
 g.tu.ac.kr
@@ -392,7 +392,6 @@ itc.edu.co
 itc.edu.khmoestudents.edu.kn
 itca.edu.sv
 itculiacan.edu.mx
-iti.edu.ec
 itla.edu.do
 itspozarica.edu.mx
 itstep.academy
@@ -626,7 +625,6 @@ ninja
 njit.edu
 nmjc.edu
 nmms-mautern.at
-nmsu.edu
 noc.edu
 northampton.edu
 northshore.edu
@@ -818,7 +816,6 @@ slc.ubc.ca
 smail.pcd.edu
 smail.skawi.me
 smakstmariamalang.sch.id
-smc.edu
 smksingaparna.sch.id
 sotcstudent.net
 southplainscollege.edu
@@ -1057,14 +1054,12 @@ uartes.edu.ec
 ub.ac.bw
 ub.edu.bs
 ubboemmius.nl
-ubi.pt
 ubp.edu.ar
 uca.ac.ma
 uca.edu.ar
 ucacue.edu.ec
 uce.edu.do
 uce.edu.ec
-uchicago.edu
 ucm.ac.mz
 ucp.edu.pk
 ucr.ac.cr
@@ -1082,7 +1077,6 @@ uet.edu.pk
 ufhec.edu.do
 ufide.ac.cr
 ufidelitas.ac.cr
-ufromail.cl
 ufuk.edu.tr
 ug.edu.ec
 ugm.ac.id
@@ -1096,7 +1090,6 @@ uit.edu.mm
 uj.edu.sa
 ul.edu.co
 ul.edu.lb
-ula.edu.mx
 umc.br
 umkt.ac.id
 umm.edu.mx
@@ -1204,7 +1197,6 @@ vaa.edu.vn
 valverde.edu
 vanlanguni.vn
 vcccd.edu
-vccs.edu
 vctx.edu
 vict.edu.ht
 vief.edu.vn
@@ -1271,7 +1263,6 @@ cau.ac.kr
 aluno.newtonpaiva.br
 geu.ac.in
 aluno.uniasselvi.com.br
-sandiego.edu
 tepeaca.tecnm.mx
 tukorea.ac.kr
 ises.com.br
@@ -1305,3 +1296,12 @@ alunos.unifbv.edu.br
 zu.edu.eg
 utyac.onmicrosoft.com
 wesleyan.edu
+studenti.unisr.it
+rtu.edu.ph
+studentmail.unimap.edu.my
+email.lcup.edu.ph
+jamaluddin.edu.mv
+aluno.uniasselvi.com.br
+mylife.mku.ac.ke
+unipacifico.edu.co
+univassouras.edu.br
