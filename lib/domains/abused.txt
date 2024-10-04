@@ -1302,3 +1302,4 @@ studentmail.unimap.edu.my
 email.lcup.edu.ph
 jamaluddin.edu.mv
 aluno.uniasselvi.com.br
+mylife.mku.ac.ke
