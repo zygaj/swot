@@ -364,7 +364,6 @@ aaedu.edu.pl
 k.tut.edu.pl
 lxiv.secondary.edu.pl
 wstkt.edu.pl
-my.tccd.edu
 mfk.app
 aof.anadolu.edu.tr
 art.edu.lv
