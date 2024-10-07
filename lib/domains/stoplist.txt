@@ -474,3 +474,4 @@ psu.palawan.edu.ph
 kellerisd.com
 office.knu.ac.kr
 azeri.edu.az
+mdis.uz
