@@ -1306,3 +1306,5 @@ unipacifico.edu.co
 univassouras.edu.br
 student.kirkwood.edu
 my.tccd.edu
+fit.edu.ph
+utfv.edu.mx
