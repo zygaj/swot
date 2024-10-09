@@ -296,7 +296,6 @@ vjrq.cn
 wfl.sh.edu.cn
 whit.edu.cn
 whu.edu.cn
-whut.edu.cn
 wust.edu.cn
 wxic.edu.cn
 wxit.edu.cn
@@ -480,3 +479,6 @@ icprjc.edu
 student.guhsdaz.org
 o365.prz.edu.pl
 ind.suezuni.edu.eg
+busan.ac.kr
+bnu.kr
+mtu.kr
