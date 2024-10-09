@@ -495,3 +495,4 @@ mail.fresnostate.edu
 wcstudents.wc.edu
 my.lsco.edu
 student.alvincollege.edu
+stu.howardcollege.edu
