@@ -496,3 +496,4 @@ wcstudents.wc.edu
 my.lsco.edu
 student.alvincollege.edu
 stu.howardcollege.edu
+students.panola.edu
