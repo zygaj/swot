@@ -489,3 +489,4 @@ gcu.ac.kr
 ube.edu.ec
 atc.edu
 bu.edu.eg
+swmich.edu
