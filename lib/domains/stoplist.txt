@@ -482,3 +482,4 @@ ind.suezuni.edu.eg
 busan.ac.kr
 bnu.kr
 mtu.kr
+student.cgcc.edu
