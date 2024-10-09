@@ -485,3 +485,4 @@ mtu.kr
 student.cgcc.edu
 atk.com.kg
 hyejeon.ac.kr
+gcu.ac.kr
