@@ -1308,3 +1308,4 @@ student.kirkwood.edu
 my.tccd.edu
 fit.edu.ph
 utfv.edu.mx
+office.gtec.ac.kr
