@@ -491,3 +491,4 @@ atc.edu
 bu.edu.eg
 swmich.edu
 student.ssc.edu
+mail.fresnostate.edu
