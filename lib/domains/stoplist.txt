@@ -504,3 +504,4 @@ mails.cqjtu.edu.cn
 alumni.cuhk.net
 m365.nycu.edu.tw
 stu.cqupt.edu.cn
+stu.templejc.edu
