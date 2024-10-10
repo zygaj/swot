@@ -491,3 +491,10 @@ atc.edu
 bu.edu.eg
 swmich.edu
 student.ssc.edu
+mail.fresnostate.edu
+wcstudents.wc.edu
+my.lsco.edu
+student.alvincollege.edu
+stu.howardcollege.edu
+students.panola.edu
+stu.siva.edu.cn
