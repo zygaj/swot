@@ -1318,3 +1318,6 @@ kiu.kr
 aluno.multivix.edu.br
 o365.skku.edu
 bcsdschools.net
+smail.kongju.ac.kr
+yu.ac.kr
+henricostudents.org
