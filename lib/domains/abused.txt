@@ -40,7 +40,6 @@ alum.ubc.ca
 alum.uca.es
 alum.urmc.rochester.edu
 alum.us.es
-alum.utoronto.ca
 alumno.buap.mx
 alumno.uaemex.mx
 alumno.udg.mx
