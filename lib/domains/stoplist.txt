@@ -515,3 +515,4 @@ email.cufe.edu.cn
 mail.szpu.edu.cn
 alumni.bentley.edu
 altoona.k12.wi.us
+wauwatosa.k12.wi.us
