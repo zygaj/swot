@@ -432,6 +432,7 @@ kst.edu.sg
 ksu.edu.bi
 kthcm.edu.vn
 kuic.kyonggi.ac.kr
+kyonggi.ac.kr
 kwiatek365.pl
 kyile.website
 lamarpa.edu
@@ -1326,3 +1327,4 @@ student.lnu.se
 itstep.edu.az
 ks.ac.kr
 apps.nsd.org
+myu.universitecentrale.tn
