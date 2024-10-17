@@ -1181,7 +1181,6 @@ utg.edu.gm
 utmachala.edu.ec
 utn.edu.mx
 utp.edu.br
-utp.edu.co
 uts.edu.co
 uts.edu.ve
 uttab.edu.mx
