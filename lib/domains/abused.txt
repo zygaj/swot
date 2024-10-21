@@ -656,7 +656,7 @@ office.itb.ac.id
 office.ui.ac.id
 office.uos.ac.kr
 ofppt-edu.ma
-ogr.akdeniz.edu.tr
+akdeniz.edu.tr
 ogr.alanya.edu.tr
 ogr.altinbas.edu.tr
 ogr.atauni.edu.tr
