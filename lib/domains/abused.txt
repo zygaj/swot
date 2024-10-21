@@ -1329,3 +1329,4 @@ myu.universitecentrale.tn
 umbc.edu
 mail.fresnostate.edu
 sanluis.edu.ar
+bup.edu.bd
