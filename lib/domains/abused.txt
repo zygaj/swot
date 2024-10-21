@@ -1330,3 +1330,4 @@ umbc.edu
 mail.fresnostate.edu
 sanluis.edu.ar
 bup.edu.bd
+o365.yonsei.ac.kr
