@@ -40,7 +40,6 @@ alum.ubc.ca
 alum.uca.es
 alum.urmc.rochester.edu
 alum.us.es
-alum.utoronto.ca
 alumno.buap.mx
 alumno.uaemex.mx
 alumno.udg.mx
@@ -228,7 +227,6 @@ eaglesvale.ac.zw
 eap.gr
 eastafricauniversity.net
 ebimal.edu.ar
-ecam.fr
 eco.maranatha.edu
 ecu.edu.eg
 edu.arh.bg.ac.rs
@@ -286,7 +284,6 @@ estudiantes.edu.ec
 estudiantesunap.cl
 etap.edu.pt
 etec.sp.gov.br
-etml-es.ch
 etu.edu.tr
 etu.u-pec.fr
 etud.u-picardie.fr
@@ -354,7 +351,6 @@ hindscc.edu
 hnulinton.org
 hocking.edu
 holmescc.edu
-howardcc.edu
 hsestudents.org
 hstu.info
 huaf.edu.vn
@@ -406,7 +402,6 @@ jmpaneracollege.com
 just.edu.jo
 kafrelsheikh2.moe.edu.eg
 kashop.me
-kastamonu.edu.tr
 kbtc.edu.mm
 kbtut.tj
 kg.edu.kg
@@ -435,6 +430,7 @@ kst.edu.sg
 ksu.edu.bi
 kthcm.edu.vn
 kuic.kyonggi.ac.kr
+kyonggi.ac.kr
 kwiatek365.pl
 kyile.website
 lamarpa.edu
@@ -635,7 +631,6 @@ nttu.edu.vn
 ntu.edu.pk
 nu.ac.th
 nube.unadmexico.mx
-nur.edu.bo
 nvsu.edu.ph
 nwacc.edu
 nwfsc.edu
@@ -658,7 +653,7 @@ office.itb.ac.id
 office.ui.ac.id
 office.uos.ac.kr
 ofppt-edu.ma
-ogr.akdeniz.edu.tr
+akdeniz.edu.tr
 ogr.alanya.edu.tr
 ogr.altinbas.edu.tr
 ogr.atauni.edu.tr
@@ -1072,7 +1067,6 @@ udca.edu.co
 udenar.edu.co
 udla.edu.co
 udsu.ru
-ues.edu.sv
 uet.edu.pk
 ufhec.edu.do
 ufide.ac.cr
@@ -1087,7 +1081,6 @@ uin-alauddin.ac.id
 uin-suka.ac.id
 uiot.ac.ug
 uit.edu.mm
-uj.edu.sa
 ul.edu.co
 ul.edu.lb
 umc.br
@@ -1151,7 +1144,6 @@ uotago.ac.nz
 uowm.gr
 up.ac.pa
 up.ac.th
-upana.edu.gt
 upb.edu.co
 upd.edu.ph
 upeu.edu.pe
@@ -1186,7 +1178,6 @@ utg.edu.gm
 utmachala.edu.ec
 utn.edu.mx
 utp.edu.br
-utp.edu.co
 uts.edu.co
 uts.edu.ve
 uttab.edu.mx
@@ -1306,3 +1297,38 @@ mylife.mku.ac.ke
 unipacifico.edu.co
 univassouras.edu.br
 student.kirkwood.edu
+my.tccd.edu
+fit.edu.ph
+utfv.edu.mx
+office.gtec.ac.kr
+st.dima.ac.kr
+otc.edu
+alabama.edu
+np.edu
+imail.sunway.edu.my
+kiu.kr
+aluno.multivix.edu.br
+o365.skku.edu
+bcsdschools.net
+smail.kongju.ac.kr
+yu.ac.kr
+henricostudents.org
+htu.edu.jo
+seu.edu.cn
+unsaac.edu.pe
+talento.tls.edu.pe
+wsfcsstudents.net
+student.lnu.se
+itstep.edu.az
+ks.ac.kr
+apps.nsd.org
+myu.universitecentrale.tn
+umbc.edu
+mail.fresnostate.edu
+sanluis.edu.ar
+bup.edu.bd
+o365.yonsei.ac.kr
+ubt-uni.net
+correo.tdea.edu.co
+st.uskudar.edu.tr
+stu.templejc.edu
