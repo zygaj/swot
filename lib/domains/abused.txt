@@ -1333,3 +1333,5 @@ st.uskudar.edu.tr
 stu.templejc.edu
 senati.pe
 hufs.ac.kr
+ucad.edu.sn
+stud.cu.edu.eg
