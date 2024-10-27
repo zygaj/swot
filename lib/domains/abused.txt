@@ -1332,3 +1332,4 @@ correo.tdea.edu.co
 st.uskudar.edu.tr
 stu.templejc.edu
 senati.pe
+hufs.ac.kr
