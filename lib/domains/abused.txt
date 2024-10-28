@@ -1338,3 +1338,4 @@ stud.cu.edu.eg
 student.kyungnam.ac.kr
 office.ysc.ac.kr
 univ-ghardaia.dz
+zapopan.tecmm.edu.mx
