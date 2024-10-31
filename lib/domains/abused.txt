@@ -1339,3 +1339,7 @@ student.kyungnam.ac.kr
 office.ysc.ac.kr
 univ-ghardaia.dz
 zapopan.tecmm.edu.mx
+student.cgcc.edu
+student.uitm.edu.my
+hendrix.edu
+utp.ac.pa
