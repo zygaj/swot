@@ -1343,3 +1343,4 @@ student.cgcc.edu
 student.uitm.edu.my
 hendrix.edu
 utp.ac.pa
+bup.edu.bd
