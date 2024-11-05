@@ -1388,3 +1388,4 @@ upn.edu.co
 utags.edu.mx
 viacesi.fr
 utexas.edu
+daegu.ac.kr
