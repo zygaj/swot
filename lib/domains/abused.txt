@@ -1387,3 +1387,5 @@ utags.edu.mx
 viacesi.fr
 utexas.edu
 daegu.ac.kr
+alumnos.cecyteg.edu.mx
+koreatech.ac.kr
