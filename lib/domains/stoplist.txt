@@ -541,3 +541,4 @@ student.haywood.k12.nc.us
 hendrix.edu
 psu.edu
 bau.edu.jo
+cantho.edu.vn
