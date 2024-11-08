@@ -1393,3 +1393,6 @@ usal.es
 u.tsukuba.ac.jp
 unsaac.edu.pe
 yrdsb.ca
+estudante.ifb.edu.br
+actvn.edu.vn
+office.ut.ac.kr
