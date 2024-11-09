@@ -1396,3 +1396,8 @@ yrdsb.ca
 estudante.ifb.edu.br
 actvn.edu.vn
 office.ut.ac.kr
+kut.ac.kr
+a.ut.ac.kr
+udec.cl
+tanta.edu.eg
+qaed.edu.pk
