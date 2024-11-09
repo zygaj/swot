@@ -1407,3 +1407,4 @@ gne.go.kr
 caa.columbia.edu
 office.deu.ac.kr
 farn-ct.ac.uk
+udv.edu.gt
