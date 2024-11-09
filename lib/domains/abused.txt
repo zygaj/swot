@@ -1403,3 +1403,4 @@ tanta.edu.eg
 qaed.edu.pk
 g.skku.edu
 student.ub.ac.id
+gne.go.kr
