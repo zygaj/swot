@@ -1401,3 +1401,5 @@ a.ut.ac.kr
 udec.cl
 tanta.edu.eg
 qaed.edu.pk
+g.skku.edu
+student.ub.ac.id
