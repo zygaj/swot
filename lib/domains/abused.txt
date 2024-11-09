@@ -1404,3 +1404,6 @@ qaed.edu.pk
 g.skku.edu
 student.ub.ac.id
 gne.go.kr
+caa.columbia.edu
+office.deu.ac.kr
+farn-ct.ac.uk
