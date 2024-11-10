@@ -1358,7 +1358,7 @@ email.muscatcollege.edu.om
 est.itsc.edu.do
 est.uasd.edu.do
 estudantes.ips.pt
-g.seoultech.ac.kr
+seoultech.ac.kr
 geu.ac.in
 gmail.com
 hs.ac.kr
