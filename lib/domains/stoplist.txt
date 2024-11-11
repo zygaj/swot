@@ -455,7 +455,6 @@ itsqmet.edu.ec
 st.tvu.edu.vn
 jpu.edu.jo
 365.cute.edu.tw
-mokwon.ac.kr
 stu.bayburt.edu.tr
 alumni.rice.edu
 cet.edu
@@ -552,3 +551,4 @@ huttoisd.org
 skhhcps.edu.hk
 ae1odemira.edu.pt
 uno-r.edu.ph
+uib.edu
