@@ -1411,3 +1411,5 @@ udv.edu.gt
 ucad.edu.sn
 fh-muenster.de
 itc.edu.kh
+mf.uns.ac.rs
+utrgv.edu
