@@ -554,3 +554,5 @@ uno-r.edu.ph
 uib.edu
 sonoranschools.org
 hanma.kr
+stu.kmu.edu.tr
+alumni.ied.edu
