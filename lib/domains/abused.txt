@@ -316,7 +316,6 @@ fvcc.edu
 fwu.edu.np
 batstate-u.edu.ph
 g.hongik.ac.kr
-g.seoultech.ac.kr
 g.tu.ac.kr
 gcsurat.gujgov.edu.in
 gemselearning.com
