@@ -1418,3 +1418,5 @@ kongju.ac.kr
 virtual.ceipa.edu.co
 binus.ac.id
 utp.edu.pe
+ms.upla.edu.pe
+alumnos.upm.es
