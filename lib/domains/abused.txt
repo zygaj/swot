@@ -1141,7 +1141,6 @@ up.ac.pa
 up.ac.th
 upb.edu.co
 upd.edu.ph
-upeu.edu.pe
 uph.edu
 upm.edu.sa
 upn.pe
@@ -1421,3 +1420,5 @@ utp.edu.pe
 ms.upla.edu.pe
 alumnos.upm.es
 udn.vn
+sgu.edu.vn
+rupp.edu.kh
