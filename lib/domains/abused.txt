@@ -1417,3 +1417,4 @@ csi.edu.eg
 kongju.ac.kr
 virtual.ceipa.edu.co
 binus.ac.id
+utp.edu.pe
