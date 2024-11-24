@@ -242,7 +242,6 @@ stu.scu.edu.cn
 stu.sdnu.edu.cn
 stu.shzu.edu.cn
 stu.sicnu.edu.cn
-stu.sisu.edu.cn
 stu.sqmc.edu.cn
 stu.sqxy.edu.cn
 stu.sumhs.edu.cn
@@ -561,3 +560,5 @@ alu.xpu.edu.cn
 zjut.edu.cn
 o365.msu.ac.th
 g.seoultech.ac.kr
+sisu.edu.cn
+gatewaycollege.lk
