@@ -1416,7 +1416,7 @@ virtual.ceipa.edu.co
 binus.ac.id
 utp.edu.pe
 ms.upla.edu.pe
-alumnos.upm.es
+upm.es
 udn.vn
 sgu.edu.vn
 rupp.edu.kh
