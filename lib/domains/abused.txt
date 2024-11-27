@@ -122,7 +122,6 @@ buc.blinn.edu
 buc.edu.eg
 byu.net
 c3chuvanan.edu.vn
-caa.columbia.edu
 cacc.edu
 caccmail.cacc.edu
 calamba.sti.edu.ph
@@ -1424,3 +1423,5 @@ philadelphia.edu.jo
 sempreuninassau.com.br
 pup.edu.ph
 upes.ac.in
+eelu.edu.eg
+kookmin.kr
