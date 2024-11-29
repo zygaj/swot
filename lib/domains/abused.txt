@@ -1425,3 +1425,4 @@ pup.edu.ph
 upes.ac.in
 eelu.edu.eg
 kookmin.kr
+kdis.ac.kr
