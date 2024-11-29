@@ -632,7 +632,6 @@ nwacc.edu
 nwfsc.edu
 nwosu.edu
 o.cnu.ac.kr
-o365.msu.ac.th
 o365.rmutp.ac.th
 o365.tu.ac.kr
 o365.u-szeged.hu
