@@ -568,3 +568,4 @@ ipe.buet.ac.bd
 caa.columbia.edu
 itc.edu.kh
 o365.lhu.edu.tw
+itc.ac.kr
