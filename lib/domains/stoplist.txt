@@ -569,3 +569,4 @@ caa.columbia.edu
 itc.edu.kh
 o365.lhu.edu.tw
 itc.ac.kr
+stu.cute.edu.tw
